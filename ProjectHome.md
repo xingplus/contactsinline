@@ -1,0 +1,1 @@
+A generic interface to manage contacts in line with differents providers (LDAP, White page, etc.) with a maximum possible integration with Android OS.
